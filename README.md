@@ -133,7 +133,7 @@ Container images are configured using parameters passed at runtime (such as thos
 | `-e SUPERUSER_EMAIL=<SUPERUSER_EMAIL>` | Username for admin account |
 | `-e SUPERUSER_PASSWORD=<SUPERUSER_PASSWORD>` | Password for admin account |
 | `-e ALLOWED_HOST=<ALLOWED_HOST>` | The hostname you will use to access the app (i.e., netbox.example.com |
-| `-e DB_NAME=<DB_NAME>` | Databaes name (optional, default: netbox) |
+| `-e DB_NAME=<DB_NAME>` | Database name (optional, default: netbox) |
 | `-e DB_USER=<DB_USER>` | Database user |
 | `-e DB_PASSWORD=<DB_PASSWORD>` | Database password |
 | `-e DB_HOST=<DB_HOST>` | Database post (optional, default: postgres |
